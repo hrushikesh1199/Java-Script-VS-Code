@@ -47,17 +47,17 @@ console.log(index); // Output: 2
 
 
 
-//06.Slice vs Splice (Interview ❗)
+//06.Slice vs Splice (Interview)
 
 //slice() – does NOT change original
-let arr = [1,2,3,4];
-let newArr = arr.slice(1,3);
+let arr1 = [1,2,3,4];
+let newArr = arr1.slice(1,3);
 console.log(newArr); // [2,3]
 
 //splice() – changes original
-let arr = [1,2,3,4];
+let Arr = [1,2,3,4];
 arr.splice(1,2);
-console.log(arr); // [1,4]
+console.log(Arr); // [1,4]
 
 
 
