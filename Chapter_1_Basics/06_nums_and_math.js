@@ -21,9 +21,6 @@
 
 
 
-
-    
-
 //Math in JavaScript (Math Object)
 
     //1.Math.round()
@@ -73,4 +70,6 @@
 
     //16.Math.cbrt()
     console.log(Math.cbrt(27)); // Outputs: 3
+
+    
 
